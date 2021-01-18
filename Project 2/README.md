@@ -1,2 +1,2 @@
 it has form validation easy to use
-![](images/capture.png)
+![](images/Capture.png)
